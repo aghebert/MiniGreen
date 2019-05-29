@@ -1,0 +1,19 @@
+AI is NOT Machine Learning
+
+We need a storyboard(s) of the UI included in our Final Presentation
+
+Develop an ERD using MongoDB topology?
+
+Definitely set aside time to practice our final
+
+Add team introduction along with work/coding experiences
+
+Set goals of the projectto show in presentation!
+
+Do we want a front-end framework? (Angular, react)
+
+More user stories
+
+Developer Introductions
+
+Wiki

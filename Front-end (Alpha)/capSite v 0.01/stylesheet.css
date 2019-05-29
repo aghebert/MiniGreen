@@ -1,0 +1,39 @@
+html, body { 
+	height: 100%; width: 100%; margin: 0;
+ }
+ 
+
+#myBox{
+	height:90%;
+	background-color:lightcoral;
+ }
+
+
+ #menuAndSuch{
+	 width: 94%;
+	 height: 5%;
+	 border:1px solid black;
+	 margin-top:1%;
+	 margin-left:1%;
+ }
+.myGrid{
+	display:grid;
+	grid-template-columns: 20% 75%;
+	height:70%;
+	margin-top:1%;
+}
+.myGrid > div{
+	border: 1px solid black;
+	background-color: lightblue;
+	border: 1px solid black;
+}
+
+.myLinks{
+	margin-left: 5%;
+}
+
+.myLinks > div{
+	border:1px solid black;
+	text-align: center;
+	height:9%;
+}

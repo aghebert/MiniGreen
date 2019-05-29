@@ -1,0 +1,88 @@
+5:45pm - 10:40pm Wednesdays -- Jul 15 - Sep 21
+
+Makeup class
+5:45pm - 10:15pm Friday -- August 16
+
+
+Frontend
+#Does Django have templates we could use?
+-Create a unified underlying template for the site
+-Create the smaller pages in template
+-Implement routing
+-Form Validations
+-Connect forms/buttons to Backend (methods)
+-Timing page loading
+-Develop/Find graph library for histogram (javascript?)
+
+
+Backend
+-Start connecting Frontend to Backend
+-Start Development of Program Classes
+--Implement MongoDB calls to DB for Frontend data
+--Implement Django SQL cleaning
+--Implement MLA
+--Develop file manipulation/management methods
+---Location of temporary file
+--CRUD operations for methods that implement them
+--Data Validations (input, forms)
+-Implement Django Authentication Services
+-Timing of method calls
+-Validate search methods
+
+
+Database
+-Set up Mongo database
+-Create tables
+-Generate Data or find real world data for testing
+-Populate tables with data
+
+MLA - Machine Learning Algorithms
+
+-----
+First - Front-End
+    Front end
+    Basic template (All pages)
+        Includes buttons and links to each section
+    Specific details
+        test pages - buttons for crud with each of the tables
+
+Second - Mongodb
+    Set up Mongodb
+    create tables
+    populate tables
+    CRUD, connecting test page buttons with database
+
+third - Mahine learning
+    Populate test table with dummy data
+    Create/test a machine learning method
+    Test method, possibly switch to different types
+    possibly offer an option for different types if necessary
+
+4th - Logging in
+    Set up login format on front end
+    Use built in django to code back-end
+    make sure the login connects to the users table
+    Make sure permissions are set and make a test case (Admins see this box, users don't)
+
+5th - Files
+    Load files in properly
+    parse files
+    create/load temp files properly
+    save files when appropriate
+
+6th - Form details
+    Fill in each smaller page with proper forms and their details (Textbox, labels, etc)
+    Make sure the informated is retrived at page load from the proper table
+
+7th- Histogram
+    Info sent to the ml code and recieved properly
+    histogram created properly and shows properly
+    information is accurate
+
+8th - Validation
+    Make sure proper data type is allowed
+    Error catching for mistakes/bad input
+
+9th - extensive testing for bugs/errors
+    Try to break things, then fix the broken fragments
+    

@@ -1,0 +1,50 @@
+"WBS #","Name / Title",Type,"Start Date","End Date","Estimated Hours","Actual Hours","Percent Complete",Resources,Predecessors,Notes,Comments,"Task Color"
+1,MiniGreen,project,2019-03-27,2019-05-30,0,0,7.51,,,,,
+1.1,Planning,group,2019-03-27,2019-05-30,0,0,7.51,,,,,
+1.1.1,"Project Proposal",subgroup,2019-03-27,2019-04-03,0,0,87.5,,,,,
+1.1.1.1,"Develop Project Proposal v1",task,2019-03-27,2019-04-02,0,0,100,"Aaron Hebert, Ben Waters, Stephen Lawson",,,,yellow1
+1.1.1.2,"Submit Final Project Proposal v1",task,2019-04-03,2019-04-03,0,0,0,"Ben Waters",1.1.1.1,,,blue3
+1.1.2,"Use Cases",subgroup,2019-04-04,2019-04-09,0,0,0,,,,,
+1.1.2.1,"Develop Use Cases v1",task,2019-04-04,2019-04-08,0,0,0,"Ben Waters, Stephen Lawson",1.1.1.2,,,yellow1
+1.1.2.2,"Submit Finalized Use Cases v1",task,2019-04-09,2019-04-09,0,0,0,"Ben Waters",1.1.2.1,,,blue3
+1.1.3,Wireframe,subgroup,2019-04-10,2019-05-09,0,0,28.57,,,,,
+1.1.3.1,"Develop Wireframe v1",task,2019-04-10,2019-04-15,0,0,100,"Ben Waters",1.1.2.2,,,blue3
+1.1.3.2,"Revise Wireframe v1 -> v1.5",task,2019-04-16,2019-04-16,0,0,0,"Stephen Lawson, Ben Waters, Aaron Hebert",1.1.3.1,,,yellow1
+1.1.3.3,"Submit Wireframe v1.5",task,2019-04-17,2019-04-17,0,0,0,"Ben Waters, Aaron Hebert, Stephen Lawson",1.1.3.2,,,yellow1
+1.1.3.4,"Develop Wireframe v2",task,2019-04-27,2019-05-09,0,0,0,"Ben Waters",1.1.11.5,,,blue3
+1.1.4,"AI Research",subgroup,2019-03-27,2019-04-22,0,0,0,,,,,
+1.1.4.1,"Take Python AI Machine Learning Course",task,2019-03-27,2019-04-22,0,0,0,"Stephen Lawson, Ben Waters",,,,yellow1
+1.1.5,"Database Design",subgroup,2019-04-18,2019-05-10,0,0,0,,,,,
+1.1.5.1,"Develop Database Design (ERD) v1",task,2019-04-18,2019-04-20,0,0,0,"Ben Waters",1.1.3.3,,,blue3
+1.1.5.2,"Submit ERD v1",task,2019-04-21,2019-04-21,0,0,0,"Ben Waters",1.1.5.1,,,blue3
+1.1.5.3,"Develop ERD v2",task,2019-04-27,2019-05-10,0,0,0,"Ben Waters, Stephen Lawson",1.1.11.5,,,purple1
+1.1.6,"Activities Diagram",subgroup,2019-04-27,2019-05-01,0,0,0,,,,,
+1.1.6.1,"Develop Activities Diagram (AD) v1",task,2019-04-27,2019-04-29,0,0,0,"Aaron Hebert",1.1.11.5,,,green2
+1.1.6.2,"Revise AD v1 -> v1.5",task,2019-04-30,2019-04-30,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",,,,yellow1
+1.1.6.3,"Submit AD v1.5",task,2019-05-01,2019-05-01,0,0,0,"Aaron Hebert",1.1.6.1,,,green2
+1.1.7,"Class Diagrams",subgroup,2019-05-02,2019-05-15,0,0,0,,,,,
+1.1.7.1,"Develop Class Diagram (CD) v1",task,2019-05-02,2019-05-14,0,0,0,"Ben Waters, Aaron Hebert, Stephen Lawson",1.1.11.5,,,purple1
+1.1.7.2,"Submit CD v1",task,2019-05-15,2019-05-15,0,0,0,"Aaron Hebert",1.1.7.1,,,green2
+1.1.8,"Sequence Diagrams",subgroup,2019-05-08,2019-05-21,0,0,0,,,,,
+1.1.8.1,"Develop Sequence Diagram (SD) v1",task,2019-05-08,2019-05-20,0,0,0,"Stephen Lawson",1.1.11.5,,,purple1
+1.1.8.2,"Submit SD v1",task,2019-05-21,2019-05-21,0,0,0,"Stephen Lawson",1.1.8.1,,,purple1
+1.1.9,SCRUMS,subgroup,,,0,0,0,,,,,
+1.1.10,"Gantt Chart",subgroup,2019-04-01,2019-05-21,0,0,0,,,,,
+1.1.10.1,"Develop Gantt Chart v1",task,2019-04-01,2019-04-05,0,0,0,"Ben Waters",,,,blue3
+1.1.10.2,"Discuss Gantt Chart v1",task,2019-04-06,2019-04-06,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",1.1.10.1,,,yellow1
+1.1.10.3,"Revise Gantt Chart v1 -> 1.5",task,2019-04-07,2019-04-20,0,0,0,"Aaron Hebert",1.1.10.2,,,green2
+1.1.10.4,"Revise Gantt Chart v1.5 -> 2",task,2019-04-26,2019-05-20,0,0,0,"Aaron Hebert",1.1.11.5,,,green2
+1.1.10.5,"Submit Final Gantt Chart",task,2019-05-21,2019-05-21,0,0,0,"Aaron Hebert",1.1.10.4,,,green2
+1.1.11,Midterm,subgroup,2019-04-22,2019-04-25,0,0,0,,,,,
+1.1.11.1,"Compile Materials for Portfolio",task,2019-04-22,2019-04-22,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson","1.1.10.3,1.1.5.2",,,yellow1
+1.1.11.2,"Compile Wiki",task,2019-04-22,2019-04-22,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",,,,yellow1
+1.1.11.3,"Develop and Practice Presentation",task,2019-04-23,2019-04-23,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson","1.1.11.1,1.1.11.2",,,yellow1
+1.1.11.4,"Present Portfolio (Midterm)",milestone,2019-04-24,2019-04-24,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",1.1.11.3,,,yellow1
+1.1.11.5,"SCRUM 1",task,2019-04-25,2019-04-25,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",1.1.11.4,"Based on our feedback from the midterm",,yellow1
+1.1.12,Final,subgroup,2019-05-22,2019-05-30,0,0,0,,,,,
+1.1.12.1,"Compile Materials For Final",task,2019-05-22,2019-05-22,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson","1.1.10.5,1.1.3.4,1.1.5.3,1.1.6.3,1.1.7.2,1.1.8.2",,,yellow1
+1.1.12.2,"SCRUM 2 - Revise Materials",task,2019-05-23,2019-05-24,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",1.1.12.1,,,yellow1
+1.1.12.3,"Develop Presentation",task,2019-05-25,2019-05-26,0,0,0,"Ben Waters, Aaron Hebert, Stephen Lawson",1.1.12.2,,,yellow1
+1.1.12.4,"Practice Presentation",task,2019-05-27,2019-05-28,0,0,0,"Ben Waters, Stephen Lawson, Aaron Hebert",1.1.12.3,,,yellow1
+1.1.12.5,"Present Portfolio (Final)",milestone,2019-05-29,2019-05-29,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",1.1.12.4,,,purple1
+1.1.12.6,"SCRUM 3",task,2019-05-30,2019-05-30,0,0,0,"Aaron Hebert, Ben Waters, Stephen Lawson",1.1.12.5,,,yellow1

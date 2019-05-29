@@ -1,0 +1,7 @@
+Tl;dr – 
+Users – has the user id, name, and password
+Category is good for storing what products go where
+Alerts is what is stored after the program goes through the list and sees what is needed most
+Products is the ‘header’ of any number of individual products. IE: it says spoons, but no details
+ItemCollections is the details of each item, which is connected to products. It will have the most info, and the most detailed info.
+Didn’t include Supplier, as I don’t think it’s necessary at this basic level

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="Minigreen" id="Project_1b3c755" template="Default" database="MongoDb" >
+	<schema name="Minigreen" schemaname="Minigreen" >
+		<table name="Alerts" >
+			<column name="AlertID" type="integer" jt="4" />
+			<column name="ProductSKU" type="integer" jt="4" />
+			<column name="AlertStatus" type="string" jt="12" />
+		</table>
+		<table name="Category" >
+			<column name="CategoryName" type="string" jt="12" />
+			<column name="ProductSKU" type="string" jt="12" />
+		</table>
+		<table name="ProductHistory" >
+			<column name="HistoryID" type="integer" jt="4" />
+			<column name="ProductSKU" type="integer" jt="4" />
+			<column name="DateAdded" type="date" jt="91" />
+			<column name="DateSold" type="date" jt="91" />
+		</table>
+		<table name="Products" >
+			<column name="ProductSKU" type="string" jt="12" />
+			<column name="ProductName" type="string" jt="12" />
+			<column name="ProductStatus" type="string" jt="12" />
+			<column name="ProductPrice" type="double" jt="8" />
+			<fk name="Fk_Products_Alters" virtual="y" to_schema="Minigreen" to_table="Alerts" >
+				<fk_column name="ProductSKU" pk="ProductSKU" />
+			</fk>
+			<fk name="Fk_Products_ProductHistory" virtual="y" to_schema="Minigreen" to_table="ProductHistory" >
+				<fk_column name="ProductSKU" pk="ProductSKU" />
+			</fk>
+			<fk name="Fk_Products_Category" virtual="y" to_schema="Minigreen" to_table="Category" >
+				<fk_column name="ProductSKU" pk="ProductSKU" />
+			</fk>
+		</table>
+		<table name="Users" >
+			<column name="UserID" type="integer" jt="4" />
+			<column name="UserName" type="string" jt="12" />
+			<column name="UserPassword" type="string" jt="12" />
+			<column name="UserType" type="string" jt="12" />
+		</table>
+	</schema>
+	<layout name="Default Layout" id="Layout_5469f8c" show_relation="columns" >
+		<entity schema="Minigreen" name="Users" color="C1D8EE" x="64" y="224" />
+		<entity schema="Minigreen" name="Alerts" color="C1D8EE" x="64" y="400" />
+		<entity schema="Minigreen" name="ProductHistory" color="C1D8EE" x="544" y="240" />
+		<entity schema="Minigreen" name="Products" color="C1D8EE" x="240" y="224" />
+		<entity schema="Minigreen" name="Category" color="C1D8EE" x="304" y="384" />
+		<callout x="48" y="48" pointer="NO" >
+			<comment><![CDATA[This project is in offline mode.
+Design the schema and save the design to project file. Later create or upgrade the schema on any database.
+Right-click the layout to add new tables. Drop this callout from its right-click pop-up menu.]]></comment>
+		</callout>
+	</layout>
+</project>
