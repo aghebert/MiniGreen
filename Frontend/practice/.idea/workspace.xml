@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03e44e29-4dfe-4733-bc4d-b6df2f757d40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Documentation/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Activity Diagrams.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Activity Diagrams.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v2/Activity Diagrams V2.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v2/Activity Diagrams V2.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v3/Activity Diagrams V3.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v3/Activity Diagrams V3.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v3/Activity Diagrams V3.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v3/Activity Diagrams V3.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4.5/Activity Diagrams V4.5-Making an Inventory Stock Change.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4.5/Activity Diagrams V4.5-Making an Inventory Stock Change.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4.5/Activity Diagrams V4.5-Showing the Histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4.5/Activity Diagrams V4.5-Showing the Histogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4.5/Activity Diagrams V4.5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4.5/Activity Diagrams V4.5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4/Activity Diagrams V4-Import Data File.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4/Activity Diagrams V4-Import Data File.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4/Activity Diagrams V4-Making an Inventory Stock Change.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4/Activity Diagrams V4-Making an Inventory Stock Change.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4/Activity Diagrams V4-Showing the Histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Activity Diagrams/Flowchart Files/v4/Activity Diagrams V4-Showing the Histogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Class Diagrams/Class Diagram v4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Class Diagrams/Class Diagram v4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Entity Relationship Diagram v5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Entity Relationship Diagram v5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Flowchart Files/Entity Relationship Diagram v3.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Flowchart Files/Entity Relationship Diagram v3.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Flowchart Files/Entity Relationship Diagram v4.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Flowchart Files/Entity Relationship Diagram v4.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Flowchart Files/Entity Relationship Diagram v5.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/Flowchart Files/Entity Relationship Diagram v5.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/discussion points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Entity Relationship Diagram/discussion points.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/Final/MiniGreenp2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/Gantt_example.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/Gantt_example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen Gantt Chart V2 Full.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen Gantt Chart V2 Full.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_Alpha_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_Alpha_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v1.5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v1.5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v1.5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v1.5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v1.5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v1.5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Gantt/MiniGreen_Gantt_v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Scrum Topics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Scrum Topics.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Flowchart Files/Sequence Diagrams v1.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Flowchart Files/Sequence Diagrams v1.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Flowchart Files/Sequence Diagrams v2.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Flowchart Files/Sequence Diagrams v2.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Alerts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Alerts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Login.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Modify Product Info.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Modify Product Info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Show Histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Sequence Diagrams/Sequence Diagrams v2-Show Histogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 2 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 2 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 3 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 3 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 4 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 4 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 5 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 5 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 6 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 6 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 7 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 7 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 8 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 8 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 9 - Project Status Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/MiniGreen - Week 9 - Project Status Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Status Reports/Project Status Report Template.xltx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Status Reports/Project Status Report Template.xltx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Syllabus SE 414 - Intro to Senior Project.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Syllabus SE 414 - Intro to Senior Project.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Add_Item_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Add_Item_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Alerts_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Alerts_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Calendar_LandingPage_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Calendar_LandingPage_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Database_Changes_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Database_Changes_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Import_File_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Import_File_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Inventory_Management_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Inventory_Management_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Item_Creation_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Item_Creation_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Item_Details_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Item_Details_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Reports_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/Reports_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/User_Management_Page_v7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Images/User_Management_Page_v7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Wireframe.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/Wireframe Resources/Wireframe.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Activity Diagrams/Activity Diagrams V4.5-Import Data File.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Activity Diagrams/Activity Diagrams V4.5-Import Data File.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Activity Diagrams/Activity Diagrams V4.5-Logging In.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Activity Diagrams/Activity Diagrams V4.5-Logging In.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Activity Diagrams/Activity Diagrams V4.5-Making an Inventory Stock Change.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Activity Diagrams/Activity Diagrams V4.5-Making an Inventory Stock Change.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Class Diagram v4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Class Diagram v4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Entity Relationship Diagram v5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Entity Relationship Diagram v5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Gantt v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Gantt v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Project Proposal v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Project Proposal v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Alerts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Alerts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Login.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Modify Product Info.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Modify Product Info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Show Histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Sequence Diagrams/Sequence Diagrams v2-Show Histogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documentation/docs/Wireframe v7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/docs/Wireframe v7.pdf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice1/practice1/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice1/practice1/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="204" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="practice" type="Python.DjangoServer" factoryName="Django server">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03e44e29-4dfe-4733-bc4d-b6df2f757d40" name="Default Changelist" comment="" />
+      <created>1563822561190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563822561190</updated>
+      <workItem from="1563822564672" duration="314000" />
+      <workItem from="1563830234889" duration="1392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1706000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="204" y="37" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/practice1/practice1/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
