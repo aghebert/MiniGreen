@@ -1,0 +1,40 @@
+{% extends 'posts/base.html' %}
+
+{% block content %}
+	<h1>My Blog Posts <small><a href="/posts/create/">Create</a></small></h1>
+	<hr>
+	{% for post in all_posts %}
+	<div class="row">
+		<img src="{{ post.image.url }}" class="img-responsive">
+	</div>
+	<div class="row">
+		<h2><a href="{{ post.get_absolute_url }}">{{ post.title }}</a> <small>Written by {{ post.author }}</small></h2>
+		<p>{{ post.description }}</p>
+	</div>
+	<hr>
+	{% endfor %}
+	<hr>
+	<h2>Admins posts</h2>
+	{% for post in admins_posts %}
+	<div class="row">
+		<img src="{{ post.image.url }}" class="img-responsive">
+	</div>
+	<div class="row">
+		<h2><a href="{{ post.get_absolute_url }}">{{ post.title }}</a> <small>Written by {{ post.author }}</small></h2>
+		<p>{{ post.description }}</p>
+	</div>
+	<hr>
+	{% endfor %}
+	<hr>
+	<h2>Editor_dudes posts</h2>
+	{% for post in editor_dudes_posts %}
+	<div class="row">
+		<img src="{{ post.image.url }}" class="img-responsive">
+	</div>
+	<div class="row">
+		<h2><a href="{{ post.get_absolute_url }}">{{ post.title }}</a> <small>Written by {{ post.author }}</small></h2>
+		<p>{{ post.description }}</p>
+	</div>
+	<hr>
+	{% endfor %}
+{% endblock content %}
